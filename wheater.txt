@@ -1,0 +1,4 @@
+Agadir;13
+Ben Guerir;28.5
+Rabat;14.5
+CasaBlanca;19
